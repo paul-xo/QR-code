@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -24,11 +24,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshots/desktop%20view.png.jpg)
 ![](./screenshots//mobile%20view.png)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-code-landing-page-75veDeC4TC)
+- Live Site URL: [Add live site URL here](https://responsive-qr-code-landing-page.pages.dev/)
 
 ## My process
 
@@ -37,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow 
+- Mobile-first workflow
 - JS library- [Styled Components](https://styled-components.com/) - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
@@ -51,15 +50,17 @@ To see how you can add code snippets, see below:
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
+
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
+
 ```js
 const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+  console.log("🎉");
+};
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
@@ -71,14 +72,11 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 My portfolio.
 All HTML and CSS challenge on frontend mentor!
 
-
 ## Author
 
 - Website - [Bakare Paul]
 - Frontend Mentor - [@paul-xo](https://www.frontendmentor.io/profile/paul-xo)
 - GitHub - [@paul-xo]
-
-
 
 ## Acknowledgments
 
