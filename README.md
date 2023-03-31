@@ -68,7 +68,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Continued development
 
-My portfolio
+My portfolio.
 All HTML and CSS challenge on frontend mentor!
 
 
@@ -76,6 +76,8 @@ All HTML and CSS challenge on frontend mentor!
 
 - Website - [Bakare Paul]
 - Frontend Mentor - [@paul-xo](https://www.frontendmentor.io/profile/paul-xo)
+- GitHub - [@paul-xo]
+
 
 
 ## Acknowledgments
